@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![NASA random](https://apod.nasa.gov/apod/image/2109/GalaxySkyMirror_Egon_2048.jpg)
